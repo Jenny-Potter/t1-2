@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div>I am a component cakeone</div>
+    <div>I am a component cakeone.modify outside</div>
   </div>
 </template>
 
